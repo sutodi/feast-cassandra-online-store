@@ -22,7 +22,7 @@ setup(
     long_description_content_type="text/markdown",
     python_requires=">=3.7.0",
     install_requires=[
-        "cassandra-driver>=3.24.0,<4",
+        "scylla-driver>=3.25.4",
     ],
     classifiers=[
         "Development Status :: 4 - Beta",
